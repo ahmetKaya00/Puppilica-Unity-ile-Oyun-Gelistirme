@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: ec30756c427313242b74a5bc5b6e4e7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4691221781686875322
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_0"
+  - first:
+      213: -492228148523402316
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_1"
+  - first:
+      213: 3623540738447009265
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_2"
+  - first:
+      213: 2123858545395486447
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_3"
+  - first:
+      213: 8334496335392576767
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_4"
+  - first:
+      213: 4753355129540831664
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_5"
+  - first:
+      213: -3788513938170692960
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_6"
+  - first:
+      213: 9179105175596010728
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_7"
+  - first:
+      213: -6888517825936953276
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_8"
+  - first:
+      213: -1550044681998851118
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_9"
+  - first:
+      213: -2293088611262777752
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_10"
+  - first:
+      213: -1940093766752088649
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_11"
+  - first:
+      213: 7896321345478668554
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_12"
+  - first:
+      213: 7140434398640978697
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_13"
+  - first:
+      213: 4398226716746709116
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_14"
+  - first:
+      213: 8798103070509398279
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_15"
+  - first:
+      213: 2184577418497984834
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_16"
+  - first:
+      213: 7292269246132399308
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_17"
+  - first:
+      213: -5562277379355234368
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_18"
+  - first:
+      213: -3756241191346504727
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_19"
+  - first:
+      213: -6658663284249532460
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_20"
+  - first:
+      213: -8485366012012323280
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_21"
+  - first:
+      213: 3099866544234980028
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_22"
+  - first:
+      213: -7631761322315345080
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_23"
+  - first:
+      213: -1618649208127406000
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_24"
+  - first:
+      213: 4548400314506197539
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_25"
+  - first:
+      213: -5793407238584365618
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_26"
+  - first:
+      213: -1296082206861535909
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_27"
+  - first:
+      213: -3596139696906038834
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_28"
+  - first:
+      213: 810390660907260768
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_29"
+  - first:
+      213: 4238309937898684159
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_30"
+  - first:
+      213: -3057806193960343870
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_31"
+  - first:
+      213: -2055926775290808589
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_32"
+  - first:
+      213: 3905561149250180586
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_33"
+  - first:
+      213: -7192609369713151886
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_34"
+  - first:
+      213: 148437688174308191
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_35"
+  - first:
+      213: 7446218800192635556
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_36"
+  - first:
+      213: -7828468750860132201
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_37"
+  - first:
+      213: 5829088939244608331
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_38"
+  - first:
+      213: 8224932209933052530
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_39"
+  - first:
+      213: -4355858357027848783
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_40"
+  - first:
+      213: 8067464318504854851
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_41"
+  - first:
+      213: -7657674542150693205
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_42"
+  - first:
+      213: 2132324008863080353
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_43"
+  - first:
+      213: -4531204194906179686
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_44"
+  - first:
+      213: 7187268538970049786
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_45"
+  - first:
+      213: -3751169995796064756
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_46"
+  - first:
+      213: 7715423759025797470
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_47"
+  - first:
+      213: -1653952042286550412
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_48"
+  - first:
+      213: 669145460413352141
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_49"
+  - first:
+      213: 2596463514665973011
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_50"
+  - first:
+      213: -4675980639138964094
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_51"
+  - first:
+      213: 3055097962669747415
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_52"
+  - first:
+      213: -8907960772297190191
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_53"
+  - first:
+      213: 7273448738867477686
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_54"
+  - first:
+      213: -6480368666621225905
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_55"
+  - first:
+      213: -4343029869047434818
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_56"
+  - first:
+      213: -1224534734638127069
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_57"
+  - first:
+      213: -2335025511969494973
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_58"
+  - first:
+      213: 6794046983278985961
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_59"
+  - first:
+      213: 2511840767041432147
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_60"
+  - first:
+      213: -5620745341592660851
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_61"
+  - first:
+      213: 1725388420607184129
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_62"
+  - first:
+      213: 529534287514178055
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_63"
+  - first:
+      213: -3736792640007535379
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_64"
+  - first:
+      213: -5551246128149459279
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_65"
+  - first:
+      213: 5963839707876284494
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_66"
+  - first:
+      213: 5773753363432312932
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_67"
+  - first:
+      213: 3029173820577480865
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_68"
+  - first:
+      213: 7118909636232230336
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_69"
+  - first:
+      213: -782702746231556902
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_70"
+  - first:
+      213: 5847955510018277936
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_71"
+  - first:
+      213: -4221171082073394351
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_72"
+  - first:
+      213: -2375761327485482417
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_73"
+  - first:
+      213: 4930587126795398426
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_74"
+  - first:
+      213: -517147784894322899
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_75"
+  - first:
+      213: -1145452891726656326
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_76"
+  - first:
+      213: -5663953876410802955
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_77"
+  - first:
+      213: 4678319176768816490
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_78"
+  - first:
+      213: 2798974239855600085
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_79"
+  - first:
+      213: -9123847732411877687
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_80"
+  - first:
+      213: 8393312271705944686
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_81"
+  - first:
+      213: 7700183576024276746
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_82"
+  - first:
+      213: -736051057563358282
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_83"
+  - first:
+      213: -8999439050349731978
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_84"
+  - first:
+      213: 1184389784041743839
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_85"
+  - first:
+      213: -52092608224153137
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_86"
+  - first:
+      213: 4519020456143053689
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_87"
+  - first:
+      213: -4244011406258937038
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_88"
+  - first:
+      213: 7403630323964599289
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_89"
+  - first:
+      213: -3917588688512796346
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_90"
+  - first:
+      213: 7240068138477570128
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_91"
+  - first:
+      213: 8815419747115890513
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_92"
+  - first:
+      213: 4272709886211943471
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_93"
+  - first:
+      213: 5961170646409304459
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_94"
+  - first:
+      213: 922169017529909791
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_95"
+  - first:
+      213: 8491647186558186610
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_96"
+  - first:
+      213: 6507312346430657566
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_97"
+  - first:
+      213: 4659601430938353876
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_98"
+  - first:
+      213: -4408188762544069757
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_99"
+  - first:
+      213: 3488023944598687596
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_100"
+  - first:
+      213: -5753703361276243385
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_101"
+  - first:
+      213: -1159729088003123783
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_102"
+  - first:
+      213: -7944431892970546729
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_103"
+  - first:
+      213: 4548019570361856731
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_104"
+  - first:
+      213: -2948378615270957497
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_105"
+  - first:
+      213: -2662165047951846889
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_106"
+  - first:
+      213: 967077520164310677
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_107"
+  - first:
+      213: -9002857612314398483
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_108"
+  - first:
+      213: 3272147471363671145
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_109"
+  - first:
+      213: -6848083732861116689
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_110"
+  - first:
+      213: 1938874898179910404
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_111"
+  - first:
+      213: -591727120581283494
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_112"
+  - first:
+      213: 1702684874226844798
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_113"
+  - first:
+      213: -8767984187913351806
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_114"
+  - first:
+      213: -8020753486492180915
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_115"
+  - first:
+      213: -4024773401590528797
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_116"
+  - first:
+      213: -7839667728276750603
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_117"
+  - first:
+      213: -1002889961025662761
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_118"
+  - first:
+      213: -7920240984603217624
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_119"
+  - first:
+      213: 2449313820850074922
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_120"
+  - first:
+      213: 4382741427469698027
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_121"
+  - first:
+      213: 3442292094766495793
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_122"
+  - first:
+      213: -4773595196392538164
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_123"
+  - first:
+      213: -1877163446915864679
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_124"
+  - first:
+      213: 3012361105197681694
+    second: "Sakall\u0131 Piksel Karakter Y\xFCr\xFCy\xFC\u015F Spriti_125"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karakter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 669
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cc9f8620d1dee439e91f015bd0c6fc
+      internalID: -222640901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 669
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4df1def3165c5449b7fdae24f738779
+      internalID: -1891560325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 669
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56ea65ee2b66aa48bda2f74c20c88c2
+      internalID: -659866724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 669
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8155efb9c625de4eb444dfb7a657549
+      internalID: 1047352417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_4
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 669
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cd2bc627d6f33418d0591725d52ea7
+      internalID: 1052089476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_5
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 669
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4a762a0decc9b4f83407f8d5eca8f9
+      internalID: -1272853668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 669
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38ac0f28df43f944bf768a38e1c203d
+      internalID: 1939670635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_7
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 669
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a43c4fcae315fc42886e64c195ff517
+      internalID: -1271147198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 451
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67553e57a8514f47895e8ac5e905891
+      internalID: -2133030691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 451
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627d1859cb87a294cb9d80848b0e31d4
+      internalID: 1672688934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 451
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5820f04684e8f47b1b11fb2fcac74d
+      internalID: 109256604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_11
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 451
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e46a3cac00ee64cab90e640a20f1d5
+      internalID: -1854625014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_12
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 451
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0921c309c2237f24d9c84c859cb2a8ca
+      internalID: -870993708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_13
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 451
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478a9b6b9813aee4e9a628d00368a396
+      internalID: 2113220891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_14
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 453
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d61606208eba4396804b415e8f558
+      internalID: 863340485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_15
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 451
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79331f77cefb477448b56990071886bb
+      internalID: -936199069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b11e1555906ffd46868c1f50dea4083
+      internalID: 421141030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_17
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 233
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e40f8938d83a1047967d8af55b02255
+      internalID: 2012395067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 233
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d12cc1a7e2472c4f949298bb0db56a4
+      internalID: 1598972659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 233
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb6db33086cf574bb1d6645ac7dbdca
+      internalID: -120027297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_20
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 233
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2365eb5ee026afe46adaf967b7b2af5b
+      internalID: -277054319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_21
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 233
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73aca05efbaf43499220f8ac67349d5
+      internalID: -1038085567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_22
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 233
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedb280f42c796643ab308d0cd42cda0
+      internalID: 362388798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_23
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 233
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1db701b36c24d4390a578f367e95a4
+      internalID: -454050199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83475e5a48c4ec342a605565bebdcce0
+      internalID: -386806691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 15
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953266eeffcda4840978d1a61ac25348
+      internalID: -663367909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_26
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 15
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c739c16dd5dbab941ac765d6cac444d4
+      internalID: 1561569888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_27
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 15
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c7d7051c8bf1e48bd02a10a6c66216
+      internalID: -1683265749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_28
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 15
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552d5e8992d0a94da55aa09da1801ce
+      internalID: -723970670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_29
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 15
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee1a62e01bdad46a5ea94db1f75fe2
+      internalID: 308602569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_30
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 15
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3fcf3be1de5e647abf4e9a6dbf80f3
+      internalID: 1224141948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karakter_31
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 15
+        width: 219
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf25c13b0c8e89c40826cb1e79ef1f85
+      internalID: -635071936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2fb73a772a4b7ac41aa98ae9e8d6d447
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":219.0,"y":218.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Karakter_0: -222640901
+      Karakter_1: -1891560325
+      Karakter_10: 109256604
+      Karakter_11: -1854625014
+      Karakter_12: -870993708
+      Karakter_13: 2113220891
+      Karakter_14: 863340485
+      Karakter_15: -936199069
+      Karakter_16: 421141030
+      Karakter_17: 2012395067
+      Karakter_18: 1598972659
+      Karakter_19: -120027297
+      Karakter_2: -659866724
+      Karakter_20: -277054319
+      Karakter_21: -1038085567
+      Karakter_22: 362388798
+      Karakter_23: -454050199
+      Karakter_24: -386806691
+      Karakter_25: -663367909
+      Karakter_26: 1561569888
+      Karakter_27: -1683265749
+      Karakter_28: -723970670
+      Karakter_29: 308602569
+      Karakter_3: 1047352417
+      Karakter_30: 1224141948
+      Karakter_31: -635071936
+      Karakter_4: 1052089476
+      Karakter_5: -1272853668
+      Karakter_6: 1939670635
+      Karakter_7: -1271147198
+      Karakter_8: -2133030691
+      Karakter_9: 1672688934
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
