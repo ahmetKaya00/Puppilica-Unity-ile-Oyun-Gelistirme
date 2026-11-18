@@ -10,7 +10,6 @@ public class PlayerController : MonoBehaviour
     private Animator animator;
 
     private InputAction moveAction;
-    private InputAction attackAction;
 
     private Vector2 moveInput;
 
@@ -44,14 +43,11 @@ public class PlayerController : MonoBehaviour
     private void OnEnable()
     {
         moveAction.Enable();
-        attackAction.Enable();
-        attackAction.performed += OnAttackPerformed;
     }
     private void OnDisable()
     {
         moveAction.Disable();
-        attackAction.Disable();
-        attackAction.performed -= OnAttackPerformed;
+
     }
 
     private void Start()
@@ -80,10 +76,5 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         rb.linearVelocity = moveInput * moveSpeed;
-    }
-
-    private void OnAttackPerformed(InputAction.CallbackContext context)
-    {
-        animator.SetTrigger(AttackHash);
     }
 }

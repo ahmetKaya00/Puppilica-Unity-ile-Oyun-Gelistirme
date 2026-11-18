@@ -70,6 +70,7 @@ public class MainMenuController : MonoBehaviour
 
     private void OnNewGameClicked()
     {
+        PlayerPrefs.DeleteKey("SavedTownData");
         PlayerPrefs.SetString(SAVE_LEVEL_KEY, firstLevelSceneName);
         PlayerPrefs.Save();
         SceneManager.LoadScene(firstLevelSceneName);
